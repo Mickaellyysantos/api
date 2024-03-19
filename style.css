@@ -1,0 +1,129 @@
+header {
+    background-color: #d3b2d3;
+    color: #ffffff;
+    text-align: left;
+    padding: 10px;
+    
+    
+    }
+
+
+    nav {
+        background-color: #D9FEFF;
+        width: 1;
+        height: 32px;
+       
+        
+        
+    }
+    body{
+        background-color:#fdfdfd;
+        margin: 0;
+        padding-left: 0;
+    }
+    h1{
+        color: rgb(0, 0, 0);
+    }
+    nav ul {
+        list-style-type: none;
+        text-align: center;
+        margin: 0;
+        display: flex;
+        justify-content: flex-end
+        }
+    
+        nav ul li {
+            display: inline;
+            align-items: center;
+
+        }
+
+        a {
+            text-decoration: none;
+            padding-right: 10px;
+            color: rgb(0, 0, 0);
+        }
+
+        .logo{
+            text-align:right ;
+        }
+    
+    .caixa-pesquisa{
+        align-items: center;
+    }
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+    text-align: center;
+    
+}
+.body{
+ width:100px;
+height:100px;
+display: flex;
+justify-content: center;
+padding:10px;
+}
+.main{
+    width:100px;
+    max-width: 300px;
+}
+.divSearch {
+    display: flex;
+    gap:1px;
+    color: black;
+}
+.input{
+    padding: 5px;
+    outline: none;
+}
+
+.body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #F2E5C3;
+}
+
+.l{
+    font-size: 20px;
+   margin-top: 50px;
+   color: black;
+}
+
+.u{
+    font-size: 20px;
+    margin-top: 50px;
+}
+
+.tuu{
+    background-color: #D9FEFF;
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-10%, -50%);
+   padding: 80px;
+   border-radius: 18px;
+   margin-left: -600px;
+   width: -50px;
+   height: 300px;
+
+}
+.ma{
+    transform: translate(-20%, -50%);
+}
+
+.makeup{
+    height: 430px;
+    transform: translate(-5%, -00%);
+}    
+.doisma{
+    height: 320px;
+    transform: translate(-10%, -00%);
+    
+} 
+.tresma{
+    height: 320px;
+    transform: translate(-10%, -00%);
+    
+}
